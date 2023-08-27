@@ -1,8 +1,9 @@
 # Android Calculator 
 
-![android](https://github.com/YoussefAboelwafa/Android_Calculator/assets/96186143/4c224579-0404-435d-add0-68ad7be4d09d)
+![android](https://github.com/YoussefAboelwafa/Android_Calculator_App/assets/96186143/29973860-344c-407d-a595-8635e6556663)
+
 
 ## Simple Calculator build for Android devices using Java
 
-![Calculator](https://github.com/YoussefAboelwafa/Android_Calculator_App/assets/96186143/07cd3ad1-11fb-467a-aa97-6bcb493c5288)
+![Calculator](https://github.com/YoussefAboelwafa/Android_Calculator_App/assets/96186143/faf56b4d-24b2-4902-b013-3dfc7419776f)
 
